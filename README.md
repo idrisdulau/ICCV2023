@@ -16,3 +16,5 @@ The [rebranchOrRemove](rebranchOrRemove.py) algorithm, reconnecting endpoints to
 
 ---
 The use of VNR assumes high-quality optic disk and vessels segmentations (dice $\geq$ 0.8) to obtain good reconnection performances.
+
+![alt text](images/VNRsteps.png)
